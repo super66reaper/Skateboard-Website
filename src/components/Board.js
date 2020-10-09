@@ -1,12 +1,13 @@
 import React from 'react'
 
-const Board = ({ board }) => {
+const Board = ({ skateboard, deleteBoard }) => {
     return (
         <li>
-            Board: {board.board} 
+            ID: {skateboard.id}
             <p></p>
-            GripTape: {board.gripTape}
+            Board: {skateboard.board} 
             <p></p>
+            <button onClick={deleteBoard}>Delete</button>
         </li>
     )
 }

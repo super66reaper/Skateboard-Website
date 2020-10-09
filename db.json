@@ -1,0 +1,12 @@
+{
+  "boards": [
+    {
+      "id": 72,
+      "board": "a new board..."
+    },
+    {
+      "id": 5,
+      "board": "Primitive"
+    }
+  ]
+}
