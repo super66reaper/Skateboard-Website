@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/super66reaper/Skateboard-Website.git/static/js/main.3065cebc.chunk.js",
+    "main.js.map": "/super66reaper/Skateboard-Website.git/static/js/main.3065cebc.chunk.js.map",
+    "runtime-main.js": "/super66reaper/Skateboard-Website.git/static/js/runtime-main.0f8c4630.js",
+    "runtime-main.js.map": "/super66reaper/Skateboard-Website.git/static/js/runtime-main.0f8c4630.js.map",
+    "static/js/2.3b13da8b.chunk.js": "/super66reaper/Skateboard-Website.git/static/js/2.3b13da8b.chunk.js",
+    "static/js/2.3b13da8b.chunk.js.map": "/super66reaper/Skateboard-Website.git/static/js/2.3b13da8b.chunk.js.map",
+    "index.html": "/super66reaper/Skateboard-Website.git/index.html",
+    "precache-manifest.c7e58f1b9dba85f3d20022e569c81e4d.js": "/super66reaper/Skateboard-Website.git/precache-manifest.c7e58f1b9dba85f3d20022e569c81e4d.js",
+    "service-worker.js": "/super66reaper/Skateboard-Website.git/service-worker.js",
+    "static/js/2.3b13da8b.chunk.js.LICENSE.txt": "/super66reaper/Skateboard-Website.git/static/js/2.3b13da8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f8c4630.js",
+    "static/js/2.3b13da8b.chunk.js",
+    "static/js/main.3065cebc.chunk.js"
+  ]
+}
